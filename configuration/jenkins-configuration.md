@@ -115,7 +115,6 @@ Navigate to Manage Jenkins → Credentials → Global → Add Credentials
 | `email-smtp`            | Username/Password | SMTP                   |
 | `slack-token`           | Secret text       | Notifications          |
 
----
 
 ### 🚀 Next Steps
 
@@ -128,10 +127,10 @@ Navigate to Manage Jenkins → Credentials → Global → Add Credentials
 5. Add Nexus publish + Docker build/push
 6. Deploy to Kubernetes via `kubectl` or Helm
 
----
 
 🎉 Setup Complete — Jenkins is now fully configured for enterprise-grade CI/CD!
 
+---
 
 ### 📚 References
 - [Jenkins Pipeline Syntax](https://www.jenkins.io/doc/book/pipeline/syntax/)
